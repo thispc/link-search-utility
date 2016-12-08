@@ -1,0 +1,13 @@
+# link-search-utility
+A Search Engine algorithm
+
+Usage: search.py [options]
+
+Options:
+  -h, --help            show this help message and exit
+  -u, --update          Update Data
+  -s KEYWORD, --search=KEYWORD
+                        Keywords
+  -n UNAME, --name=UNAME
+                        Name of Database
+
